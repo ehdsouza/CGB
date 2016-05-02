@@ -1,7 +1,7 @@
 # set the base image to Ubuntu
 FROM ubuntu:latest
 
-# Autho
+# Author
 MAINTAINER Erika Dsouza erika27desouza@gmail.com
 
 # Install dependencies and bowtie, bowtie2, and samtools
