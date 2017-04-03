@@ -2,4 +2,4 @@
 This repository is used to store any CGB demo contents
 
 
-[My Github](https://github.com" target="_blank)
+[Link](https://example.org/ "title" target="_blank")
