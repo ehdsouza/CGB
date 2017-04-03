@@ -1,6 +1,3 @@
-# CGB
-This repository is used to store any CGB demo contents
-
 <script> function addBlankTargetForLinks () {
   $('a[title^="#ext"]').each(function(){
         $(this).attr('target', '_blank');
